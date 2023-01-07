@@ -107,6 +107,11 @@ input{
         margin-left: 200px;
         display: flex;
         justify-content: space-around;
+        padding: 15px;
+        margin-top: 50px;
+        margin-left: 0;
+        background-color: rgb(12, 12, 12);
+        color:#FFF8F3
        
 
 }
