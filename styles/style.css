@@ -55,3 +55,54 @@
 .plan-description{
     color: #757575;
 }
+/* my achievement */
+.achievement{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+/* emergency call */
+.emergency{
+    background-image: url("../images/watch.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    padding: 30px;
+}
+.call-emergency{
+    text-align: center;
+    color:aqua;
+}
+/* contact style */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact .section-title{
+    text-align: left;
+
+
+}
+.contact input[type="text"],input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+.contact a{
+    text-decoration: none;
+}
+/* footer */
+.footer{
+        text-align: center;
+        padding: 30px;
+        margin-left: 200px;
+        /* background-color: black; */
+        display: flex;
+
+}
